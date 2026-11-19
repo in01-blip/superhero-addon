@@ -1,0 +1,1 @@
+{"format_version":"1.21.60","minecraft:item":{"description":{"identifier":"sh:tactical_helmet","menu_category":{"category":"equipment","group":"itemGroup.name.helmet"}},"components":{"minecraft:icon":"sh_tactical_helmet","minecraft:max_stack_size":1,"minecraft:wearable":{"slot":"slot.armor.head","protection":2},"minecraft:durability":{"max_durability":300}}}}

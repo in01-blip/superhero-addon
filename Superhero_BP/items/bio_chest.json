@@ -1,0 +1,1 @@
+{"format_version":"1.21.60","minecraft:item":{"description":{"identifier":"sh:bio_chest","menu_category":{"category":"none"}},"components":{"minecraft:icon":"sh_bio_chest","minecraft:max_stack_size":1,"minecraft:wearable":{"slot":"slot.armor.chest","protection":8},"minecraft:durability":{"max_durability":2000}}}}

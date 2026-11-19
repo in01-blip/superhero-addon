@@ -1,0 +1,1 @@
+{"format_version":"1.21.60","minecraft:item":{"description":{"identifier":"sh:urban_helmet","menu_category":{"category":"equipment","group":"itemGroup.name.helmet"}},"components":{"minecraft:icon":"sh_urban_helmet","minecraft:max_stack_size":1,"minecraft:wearable":{"slot":"slot.armor.head","protection":1},"minecraft:durability":{"max_durability":120}}}}
