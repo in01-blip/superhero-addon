@@ -1,0 +1,1 @@
+{"format_version":"1.20.10","minecraft:recipe_shaped":{"description":{"identifier":"sh:urban_boots_recipe"},"tags":["crafting_table"],"pattern":["X X","X X"],"key":{"X":{"item":"minecraft:black_wool"}},"unlock":{"context":"AlwaysUnlocked"},"result":{"item":"sh:urban_boots","count":1}}}

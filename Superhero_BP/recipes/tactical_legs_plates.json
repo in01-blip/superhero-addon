@@ -1,0 +1,1 @@
+{"format_version":"1.20.10","minecraft:recipe_shapeless":{"description":{"identifier":"sh:tactical_legs_plates"},"tags":["crafting_table"],"ingredients":[{"item":"sh:soldier_plate"},{"item":"sh:soldier_plate"},{"item":"minecraft:leather"}],"unlock":{"context":"AlwaysUnlocked"},"result":{"item":"sh:tactical_legs"}}}
